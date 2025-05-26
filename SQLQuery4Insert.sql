@@ -1,0 +1,1 @@
+insert into Factura(tipo,nro_factura,fecha)values('gasd',102,convert(datetime,'25/05/2025',103))
